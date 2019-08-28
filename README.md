@@ -22,15 +22,15 @@ To get the full benefits of using Wacom Developer Relations first login to the s
 
 On your first visit you will need to create a Wacom ID which will give you full access to the resources:
 
-![login](media/create-wacom-id.jpg)
+![create-wacom-id](media/create-wacom-id.jpg)
 
 Simply complete the registration process:
 
-![login](media/register-wacom-id.jpg)
+![register-wacom-id](media/register-wacom-id.jpg)
 
 You will then have full access to the resources made available on the site:
 
-![login](media/resources.jpg)
+![resources](media/resources.jpg)
 
 ### SDK Download
 
@@ -41,7 +41,7 @@ For example, to download the Windows WILL SDK for ink navigate to Resources as s
 This will display the available download options:
 
 
-![login](media/will-ink-sdk.png)
+![will-ink-sdk](media/will-ink-sdk.png)
 
 Use the download icon to download a zip file containing the SDK binaries and api documentation.
 
