@@ -32,8 +32,21 @@ You will then have full access to the resources made available on the site:
 
 ![login](media/resources.jpg)
 
+### SDK Download
 
-## Support Procedure
+Typically you will use the Developer Relations site to gain access to an SDK.
+
+For example, to download the Windows WILL SDK for ink navigate to Resources as shown above, then select DOWNLOADS...FOR INK
+
+This will display the available download options:
+
+
+![login](media/will-ink-sdk.png)
+
+Use the download icon to download a zip file containing the SDK binaries and api documentation.
+
+
+### Support Procedure
 
 For technical support with any of the products follow the link to [Wacom Developer Support](https://developer.wacom.com/en-us/developer-dashboard/support)
 
@@ -41,6 +54,7 @@ The link references the Wacom Developer website which needs a Wacom ID login to 
 
 
 If you do not already have a Wacom ID create one using the link provided:
+
 
 ![Wacom-ID](media/Wacom-ID.png)
 
