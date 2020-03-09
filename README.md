@@ -37,32 +37,6 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 | ----------  | ----------- |
 | [sign-pro-pdf-sdk-android-samples](https://github.com/Wacom-Developer/sign-pro-pdf-sdk-android-samples)                    | Sample code for Android signpro SDK |
 
-### Private repositories
-*projects shared for beta program development*
-
-| Repository  | Description |
-| ----------  | ----------- |
-| [gsv-demo-windows-client](https://github.com/Wacom-Developer/gsv-demo-windows-client)          | Signature Verification demo - Windows |
-| [gsv-demo-android-client](https://github.com/Wacom-Developer/gsv-demo-android-client)          | Signature Verification demo - Android |
-| [will3-documentation](https://github.com/Wacom-Developer/will3-documentation)                  | WILL3 document format |
-| [will3-sdk-for-ink-wpf](https://github.com/Wacom-Developer/will3-sdk-for-ink-wpf)              | WILL3 ink - Windows WPF |
-| [will3-sdk-for-ink-uwp](https://github.com/Wacom-Developer/will3-sdk-for-ink-uwp)              | WILL3 ink - Windows UWP |
-| [will3-sdk-for-ink-web](https://github.com/Wacom-Developer/will3-sdk-for-ink-web)              | WILL3 ink - web |
-| [will3-sdk-for-ink-ios](https://github.com/Wacom-Developer/will3-sdk-for-ink-ios)              | WILL3 ink - iOS |
-| [will3-sdk-for-ink-android](https://github.com/Wacom-Developer/will3-sdk-for-ink-android)      | WILL3 ink - Android |
-| [will3-rendering-eink-kotlin](https://github.com/Wacom-Developer/will3-rendering-eink-kotlin)  | WILL3 ink - Kotlin |
-| [will3-rendering-demo-ios](https://github.com/Wacom-Developer/will3-rendering-demo-ios)        | WILL rendering - iOS |
-| [will3-demo-web](https://github.com/Wacom-Developer/will3-demo-web)                            | web demo |
-| [will3-demo-macos](https://github.com/Wacom-Developer/will3-demo-macos)                        | MacOS demo |
-| [will3-demo-android](https://github.com/Wacom-Developer/will3-demo-android)                    | Android demo |
-| [will3-lib-python](https://github.com/Wacom-Developer/will3-lib-python)                        | ink format conversion |
-| [will3-techdemo-uwp](https://github.com/Wacom-Developer/will3-techdemo-uwp)                    | Internal technology demo |
-| [ml-ces-demo](https://github.com/Wacom-Developer/ml-ces-demo)                                  | Unity demo for CES |
-| [will3-magic-leap-unity](https://github.com/Wacom-Developer/will3-magic-leap-unity)            | Unity demo for Magic Leap |
-| [mui-will3-poc](https://github.com/Wacom-Developer/mui-will3-poc)                              | POC demo |
-| [zkai-poc](https://github.com/Wacom-Developer/zkai-poc)                                        | POC demo |
-
-
 ---
 
 
