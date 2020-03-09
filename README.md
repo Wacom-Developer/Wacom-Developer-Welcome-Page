@@ -21,7 +21,7 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 | [will3-rendering-demo-uwp](https://github.com/Wacom-Developer/will3-rendering-demo-uwp)                                    | WILL rendering sample - Windows UWP |
 | [will3-3d-rendering-unity](https://github.com/Wacom-Developer/will3-3d-rendering-unity)                                    | WILL rendering sample - Unity |
 | [will-sdk-for-ink-uwp](https://github.com/Wacom-Developer/will-sdk-for-ink-uwp)                                            | SDK for ink - sample code - Windows UWP |
-| [will-sdk-for-ink-web](https://github.com/Wacom-Developer/will-sdk-for-ink-web]                                            | SDK for ink - sample code - web |
+| [will-sdk-for-ink-web](https://github.com/Wacom-Developer/will-sdk-for-ink-web)                                            | SDK for ink - sample code - web |
 | [will-sdk-for-ink-ios](https://github.com/Wacom-Developer/will-sdk-for-ink-ios)                                            | SDK for ink - sample code - iOS |
 | [will-sdk-for-ink-android](https://github.com/Wacom-Developer/will-sdk-for-ink-android)                                    | SDK for ink - sample code - Android |
 | [will-sdk-for-signature-windows](https://github.com/Wacom-Developer/will-sdk-for-signature-windows)                        | Signature SDK code samples - Windows |
