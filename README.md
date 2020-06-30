@@ -1,6 +1,6 @@
 # Wacom Developer Welcome Page
 
-## Welcome to the Wacom Developer GitHub pages
+## Welcome to the Wacom for developers GitHub pages
  
 Here you can find supplementary instructions and latest information for the developer GitHub repositories.
 
