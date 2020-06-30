@@ -1,4 +1,4 @@
-# Wacom Developer Welcome Page
+# Welcome Page
 
 ## Welcome to the Wacom for developers GitHub pages
  
