@@ -12,25 +12,29 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 
 | Repository  | Description |
 | ----------  | ----------- |
-| [wacom-device-kit-stu-sdk-samples](https://github.com/Wacom-Developer/wacom-device-kit-stu-sdk-samples)                    | STU SDK sample code |
-| [wacom-device-kit-stu-sdk-sigcaptx-samples](https://github.com/Wacom-Developer/wacom-device-kit-stu-sdk-sigcaptx-samples)  | STU SDK web sample code |
-| [will-sdk-for-devices-windows-classic](https://github.com/Wacom-Developer/will-sdk-for-devices-windows-classic)            | CDL sample code - Windows Classic |
-| [will-sdk-for-devices-windows-uwp](https://github.com/Wacom-Developer/will-sdk-for-devices-windows-uwp)                    | CDL sample code - Windows UWP |
-| [will-sdk-for-devices-iOS](https://github.com/Wacom-Developer/will-sdk-for-devices-iOS)                                    | CDL sample code - iOS |
-| [will-sdk-for-devices-android](https://github.com/Wacom-Developer/will-sdk-for-devices-android)                            | CDL sample code - Android |
-| [will3-rendering-demo-uwp](https://github.com/Wacom-Developer/will3-rendering-demo-uwp)                                    | WILL rendering sample - Windows UWP |
-| [will3-3d-rendering-unity](https://github.com/Wacom-Developer/will3-3d-rendering-unity)                                    | WILL rendering sample - Unity |
-| [will-sdk-for-ink-uwp](https://github.com/Wacom-Developer/will-sdk-for-ink-uwp)                                            | SDK for ink - sample code - Windows UWP |
-| [will-sdk-for-ink-web](https://github.com/Wacom-Developer/will-sdk-for-ink-web)                                            | SDK for ink - sample code - web |
-| [will-sdk-for-ink-ios](https://github.com/Wacom-Developer/will-sdk-for-ink-ios)                                            | SDK for ink - sample code - iOS |
-| [will-sdk-for-ink-android](https://github.com/Wacom-Developer/will-sdk-for-ink-android)                                    | SDK for ink - sample code - Android |
-| [will-sdk-for-signature-windows](https://github.com/Wacom-Developer/will-sdk-for-signature-windows)                        | Signature SDK code samples - Windows |
-| [will-sdk-for-signature-sigcaptx-windows](https://github.com/Wacom-Developer/will-sdk-for-signature-sigcaptx-windows)      | Signature SDK code samples - Windows web |
-| [will-sdk-for-signature-ios](https://github.com/Wacom-Developer/will-sdk-for-signature-ios)                                | Signature SDK code samples - iOS |
-| [will-sdk-for-signature-android](https://github.com/Wacom-Developer/will-sdk-for-signature-android)                        | Signature SDK code samples - Android |
-| [will-sdk-for-documents-windows](https://github.com/Wacom-Developer/will-sdk-for-documents-windows)                        | Document SDK sample code - Windows |
-| [will-sdk-for-documents-ios](https://github.com/Wacom-Developer/will-sdk-for-documents-ios)                                | Document SDK sample code - iOS |
-| [will-sdk-for-documents-android](https://github.com/Wacom-Developer/will-sdk-for-documents-android)                        | Document SDK sample code - Android |
+| [Wacom Device Kit: STU SDK](https://github.com/Wacom-Developer/stu-sdk-samples)                                   | STU SDK sample code |
+| [Wacom Device Kit: STU SigCaptX](https://github.com/Wacom-Developer/stu-sdk-sigcaptx-samples)                     | STU SDK web sample code |
+| [Wacom Device Kit: Bluetooth Stylus](https://github.com/Wacom-Developer/bluetooth-stylus-sdk-ios)                 | Bluetooth Stylus SDK for iOS |
+|||
+| [SDK for devices: Windows Classic](https://github.com/Wacom-Developer/sdk-for-devices-win-classic)                | CDL sample code - Windows Classic |
+| [SDK for devices: Windows UWP](	https://github.com/Wacom-Developer/sdk-for-devices-uwp)                           | CDL sample code - Windows UWP |
+| [SDK for devices: iOS](https://github.com/Wacom-Developer/sdk-for-devices-ios)                                    | CDL sample code - iOS |
+| [SDK for devices: Android](https://github.com/Wacom-Developer/sdk-for-devices-android)                            | CDL sample code - Android |
+|||
+| [SDK for ink: Windows UWP](https://github.com/Wacom-Developer/sdk-for-ink-uwp)                                    | WILL SDK for ink sample code - Windows UWP |
+| [SDK for ink: Windows WPF](https://github.com/Wacom-Developer/sdk-for-ink-wpf)                                    | WILL SDK for ink sample code - Windows WPF |
+| [SDK for ink: web](https://github.com/Wacom-Developer/sdk-for-ink-web)                                            | WILL SDK for ink sample code - web |
+| [SDK for ink: iOS](https://github.com/Wacom-Developer/sdk-for-ink-ios)                                            | WILL SDK for ink sample code - iOS |
+| [SDK for ink: Android](https://github.com/Wacom-Developer/sdk-for-ink-android)                                    | WILL SDK for ink sample code - Android |
+|||
+| [SDK for signature: Windows](https://github.com/Wacom-Developer/sdk-for-signature-windows)                        | Signature SDK sample code - Windows |
+| [SDK for signature: SigCaptX Windows](https://github.com/Wacom-Developer/sdk-for-signature-sigcaptx-windows)      | Signature SDK sample code - Windows web |
+| [SDK for signature: ios](https://github.com/Wacom-Developer/sdk-for-signature-ios)                                | Signature SDK sample code - iOS |
+| [SDK for signature: Android](https://github.com/Wacom-Developer/sdk-for-signature-android)                        | Signature SDK sample code - Android |
+|||
+| [SDK for documents: Windows](https://github.com/Wacom-Developer/sdk-for-documents-win)                            | Document SDK sample code - Windows |
+| [SDK for documents: ios](https://github.com/Wacom-Developer/sdk-for-documents-ios)                                | Document SDK sample code - iOS |
+| [SDK for documents: Android](	https://github.com/Wacom-Developer/sdk-for-documents-android)                       | Document SDK sample code - Android |
 
 ### Applications
 | Repository  | Description |
@@ -42,7 +46,7 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 
 ## Developer Relations Site
 
-Developing isn’t just about great technology, it’s about turning apps into profitable businesses. We can help you do that.
+Developing isn’t just about great technology, it’s about turning apps into profitable business. We can help you do that.
 
 Wacom Developer Relations gives you access to the resources, connections and industries you need to succeed in the exciting and disruptive digital ink market. 
 
