@@ -36,10 +36,6 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 | [SDK for documents: ios](https://github.com/Wacom-Developer/sdk-for-documents-ios)                                | Document SDK sample code - iOS |
 | [SDK for documents: Android](	https://github.com/Wacom-Developer/sdk-for-documents-android)                       | Document SDK sample code - Android |
 
-### Applications
-| Repository  | Description |
-| ----------  | ----------- |
-| [sign-pro-pdf-sdk-android-samples](https://github.com/Wacom-Developer/sign-pro-pdf-sdk-android-samples)                    | Sample code for Android signpro SDK |
 
 ---
 
