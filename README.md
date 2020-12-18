@@ -14,7 +14,15 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 | ----------  | ----------- |
 | [Wacom Device Kit: STU SDK](https://github.com/Wacom-Developer/stu-sdk-samples)                                   | STU SDK sample code |
 | [Wacom Device Kit: STU SigCaptX](https://github.com/Wacom-Developer/stu-sdk-sigcaptx-samples)                     | STU SDK web sample code |
-| [Wacom Device Kit: Bluetooth Stylus](https://github.com/Wacom-Developer/bluetooth-stylus-sdk-ios)                 | Bluetooth Stylus SDK for iOS |
+| [Wacom Device Kit: Windows](https://github.com/Wacom-Developer/wacom-device-kit-windows)							| Windows sample code	|
+| [Wacom Device Kit: macOS Multi-Touch](https://github.com/Wacom-Developer/wacom-device-kit-macos-multi-touch)		| macOS Multi-Touch sample code|
+| [Wacom Device Kit: macOS ScribbleDemo](https://github.com/Wacom-Developer/wacom-device-kit-macos-scribble-demo)	| macOS Scribble Demo sample code|
+| [Wacom Device Kit: macOS Tablet Controls](https://github.com/Wacom-Developer/wacom-device-kit-macos-tablet-controls)| macOS Tablet Controls sample code|
+| [Wacom Device Kit: macOS Tablet Mapping](https://github.com/Wacom-Developer/wacom-device-kit-macos-tablet-mapping)| macOS Tablet Mapping sample code|
+| [Wacom Device Kit: Linux](https://github.com/Wacom-Developer/wacom-device-kit-linux)								| Linux sample code		|
+| [Wacom Device Kit: Web](https://github.com/Wacom-Developer/wacom-device-kit-web)									| Web API sample code		|		
+| [Wacom Device Kit: Android](https://github.com/Wacom-Developer/wacom-device-kit-android)							| Android sample code	|
+| [Wacom Device Kit: iOS](https://github.com/Wacom-Developer/wacom-device-kit-ios)               		  			| Mobile Stylus SDK for iOS |
 |||
 | [SDK for devices: Windows Classic](https://github.com/Wacom-Developer/sdk-for-devices-win-classic)                | CDL sample code - Windows Classic |
 | [SDK for devices: Windows UWP](	https://github.com/Wacom-Developer/sdk-for-devices-uwp)                           | CDL sample code - Windows UWP |
