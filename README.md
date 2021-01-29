@@ -43,6 +43,8 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 | [SDK for documents: Windows](https://github.com/Wacom-Developer/sdk-for-documents-win)                            | Document SDK sample code - Windows |
 | [SDK for documents: ios](https://github.com/Wacom-Developer/sdk-for-documents-ios)                                | Document SDK sample code - iOS |
 | [SDK for documents: Android](	https://github.com/Wacom-Developer/sdk-for-documents-android)                       | Document SDK sample code - Android |
+|||
+| [SDK for multi-display: Windows](https://github.com/Wacom-Developer/sdk-for-multi-display)                        | Multi-display SDK sample code - Windows |
 
 
 ---
