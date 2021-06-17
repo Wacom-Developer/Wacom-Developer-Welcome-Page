@@ -20,8 +20,9 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 | [Wacom Device Kit: macOS Tablet Controls](https://github.com/Wacom-Developer/wacom-device-kit-macos-tablet-controls)| macOS Tablet Controls sample code|
 | [Wacom Device Kit: macOS Tablet Mapping](https://github.com/Wacom-Developer/wacom-device-kit-macos-tablet-mapping)| macOS Tablet Mapping sample code|
 | [Wacom Device Kit: Linux](https://github.com/Wacom-Developer/wacom-device-kit-linux)								| Linux sample code		|
-| [Wacom Device Kit: Web](https://github.com/Wacom-Developer/wacom-device-kit-web)									| Web API sample code		|		
 | [Wacom Device Kit: Android](https://github.com/Wacom-Developer/wacom-device-kit-android)							| Android sample code	|
+| [Wacom Device Kit: Chrome OS](https://github.com/Wacom-Developer/wacom-device-kit-chromeOS)						| Links to Android & web sample code|
+| [Wacom Device Kit: Web](https://github.com/Wacom-Developer/wacom-device-kit-web)									| Web API sample code		|		
 | [Wacom Device Kit: iOS](https://github.com/Wacom-Developer/wacom-device-kit-ios)               		  			| Mobile Stylus SDK for iOS |
 |||
 | [SDK for devices: Windows Classic](https://github.com/Wacom-Developer/sdk-for-devices-win-classic)                | CDL sample code - Windows Classic |
