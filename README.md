@@ -2,7 +2,7 @@
 
 ## Welcome to the Wacom for developers GitHub pages
  
-Here you can find supplementary instructions and latest information for the developer GitHub repositories.
+Here you can find supplementary instructions and the latest information for the developer GitHub repositories.
 
 The GitHub repositories have been created in support of the Wacom Developer Relations website described below.
 
