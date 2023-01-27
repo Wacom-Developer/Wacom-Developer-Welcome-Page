@@ -93,26 +93,22 @@ Use the download icon to download a zip file containing the SDK binaries and api
 
 ### Support Procedure
 
-For technical support with any of the products follow the link to [Wacom Developer Support](https://developer.wacom.com/en-us/developer-dashboard/support)
+For technical support with any of the products follow the link to [Wacom Developer Support](https://developer-support.wacom.com/z)
 
-The link references the Wacom Developer website which needs a Wacom ID login to access the dashboard used for product download and support.
-
+The link references the Wacom Developer support website with FAQ and form to submit a support request. To access the dashboard and track your request we recommend login with your Wacom ID.
 
 If you do not already have a Wacom ID create one using the link provided:
 
-
 ![Wacom-ID](media/Wacom-ID.png)
 
-The email used as the Wacom ID will be used for support emails.
-You can then access the support request page:
+The email used as the Wacom ID will be used for support emails. You can then submit the support request:
 
 ![Support](media/Support.png)
 
-Select the Initial Support Request option to display the request form.
-Complete the form, selecting the product under test:
+Complete the form, selecting the product you work with:
  
 ![Product](media/Product.png)
 
-After submitting the request you will then be able to monitor its status using the Basic Support Portal option.
+After submitting the request you will receive a confirmation email and be able to monitor its status at the requests overview page.
 
 ---
