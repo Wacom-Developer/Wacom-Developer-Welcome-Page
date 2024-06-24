@@ -32,7 +32,7 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 |||
 | [SDK for ink: Windows UWP](https://github.com/Wacom-Developer/sdk-for-ink-uwp)                                    | WILL SDK for ink sample code - Windows UWP |
 | [SDK for ink: Windows WPF](https://github.com/Wacom-Developer/sdk-for-ink-wpf)                                    | WILL SDK for ink sample code - Windows WPF |
-| [SDK for ink: web](https://github.com/Wacom-Developer/sdk-for-ink-web)                                            | WILL SDK for ink sample code - web |
+| [SDK for ink: JavaScript](https://github.com/Wacom-Developer/will-ink-sdk-js-samples)                                            | WILL SDK for ink sample code - JavaScript |
 | [SDK for ink: iOS](https://github.com/Wacom-Developer/sdk-for-ink-ios)                                            | WILL SDK for ink sample code - iOS |
 | [SDK for ink: Android](https://github.com/Wacom-Developer/sdk-for-ink-android)                                    | WILL SDK for ink sample code - Android |
 |||
