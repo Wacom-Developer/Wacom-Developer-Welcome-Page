@@ -40,6 +40,7 @@ The GitHub repositories have been created in support of the Wacom Developer Rela
 | [SDK for signature: SigCaptX Windows](https://github.com/Wacom-Developer/sdk-for-signature-sigcaptx-windows)      | Signature SDK sample code - Windows web |
 | [SDK for signature: ios](https://github.com/Wacom-Developer/sdk-for-signature-ios)                                | Signature SDK sample code - iOS |
 | [SDK for signature: Android](https://github.com/Wacom-Developer/sdk-for-signature-android)                        | Signature SDK sample code - Android |
+| [SDK for signature: JavaScript](https://github.com/Wacom-Developer/signature-sdk-js)                        | Signature SDK sample code - JavaScript|
 |||
 | [SDK for documents: Windows](https://github.com/Wacom-Developer/sdk-for-documents-win)                            | Document SDK sample code - Windows |
 | [SDK for documents: ios](https://github.com/Wacom-Developer/sdk-for-documents-ios)                                | Document SDK sample code - iOS |
